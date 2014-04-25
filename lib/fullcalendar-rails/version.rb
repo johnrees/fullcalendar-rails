@@ -1,5 +1,5 @@
 module Fullcalendar
   module Rails
-    VERSION = "1.6.4.0"
+    VERSION = "2.0.0.beta2"
   end
 end
